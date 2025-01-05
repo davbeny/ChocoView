@@ -16,3 +16,8 @@ ChocoView offers a clear and modern user interface, making it easy to navigate a
 
 - **Windows**: ChocoView is designed to run on Windows systems.
 - **Chocolatey**: Make sure Chocolatey is installed. If not, ChocoView can download and install it for you.
+
+Note on Antivirus and Windows Defender
+Important: This version of ChocoView is unsigned. You may need to add it as an exception in Windows Defender or your antivirus software to allow it to run. Please follow the instructions specific to your antivirus program to whitelist ChocoView and avoid any interruptions.
+
+  
