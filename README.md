@@ -1,6 +1,6 @@
 # ChocoView
 
-ChocoView is an intuitive graphical user interface for managing and installing software packages via Chocolatey. Simplify the installation of your favorite tools with a user-friendly interface and advanced features.
+ChocoView is an intuitive graphical user interface for managing and installing software packages on Windows via Chocolatey. Simplify the installation of your favorite tools with a user-friendly interface and advanced features.
 
 ## Features
 
